@@ -1,0 +1,15 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+# Godot
+.import/
+.godot/
+
+# SQLite
+database/*.db
+database/*.sqlite
+database/*.db-journal
+
+# Linux
+.DS_Store
+Thumbs.db
