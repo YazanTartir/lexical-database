@@ -8,7 +8,19 @@ This project is designed as a cross-language lexical knowledge base rather than 
 
 Instead of organizing vocabulary around a single language, every entry is organized around language-independent concepts. English, Spanish, Arabic, and future languages are linked to these concepts through lexical entries and relationships.
 
-The primary goal is to create a searchable, extensible database that supports language learning, writing, translation, and vocabulary expansion.
+The primary goal is to create a searchable, extensible database that supports language learning, writing, translation, and vocabulary expansion. Here is a visual representation of what this process looks like in practice:
+
+                Concept
+                   ▲
+                   │
+              belongs_to
+                   │
+                Lexeme
+             ╱   │    ╲
+            ╱    │     ╲
+     WordForm  Root  Relation
+            │          │
+            └────Tag───┘
 
 ---
 
