@@ -20,7 +20,9 @@ The primary goal is to create a searchable, extensible database that supports la
             ╱    │     ╲
      WordForm  Root  Relation
             │          │
-            └────Tag───┘
+            └Vocab Set─┘
+                 │
+               Tags
 
 ---
 
