@@ -3,26 +3,36 @@
 ## Core Objects
 
 - Concept
+
 Purpose:
 Represents a language-independent meaning.
 
 Fields
 
 id
+
 definition
+
 notes
 - Lexeme
+
 Purpose:
 Represents one dictionary entry in one language.
 
 Fields
 
 id
+
 concept_id
+
 language
+
 lemma
+
 part_of_speech
+
 notes
+
 - Word Form
 - Tag
 - Relation
