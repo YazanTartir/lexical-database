@@ -87,5 +87,7 @@ source_type
 source_id
 
 relation_type
+
 target_type
+
 target_id
