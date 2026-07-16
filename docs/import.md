@@ -29,13 +29,13 @@ Search up new words, and add them using the other dictionaries.
 
 Adding a New Word: Decision Chart
 
-START
- |
- |-- What is the meaning/concept?
- |        |
- |        └── Create or link Concept
- |
- |-- Is this a new dictionary entry?
+         START
+          |
+          |-- What is the meaning/concept?
+          |        |
+          |        └── Create or link Concept
+          |
+          |-- Is this a new dictionary entry?
           |
           ├── YES → Create Lexeme
           |
