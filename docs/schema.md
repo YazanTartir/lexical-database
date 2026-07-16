@@ -1,6 +1,6 @@
 # Lexical Database Schema
 
-## Core Objects
+## Core Objects & Definitions
 
 - Concept
 
@@ -34,9 +34,10 @@ part_of_speech
 notes
 
 - Word Form
-- Tag
-- Relation
 - Root
+- Relation
+- Vocabulary Set
+- Tag
 
 ## Supported Languages
 
