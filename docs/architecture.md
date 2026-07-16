@@ -43,37 +43,49 @@ Database:
 Concept
 ---------
 id
+
 name
 
 
 Lexeme
 ---------
 id
+
 concept_id
+
 language
+
 lemma
+
 pos
 
 
 WordForm
 ---------
 id
+
 lexeme_id
+
 text
+
 features
 
 
 Root
 ---------
 id
+
 letters
 
 
 Relation
 ---------
 id
+
 source_type
+
 source_id
+
 relation_type
 target_type
 target_id
