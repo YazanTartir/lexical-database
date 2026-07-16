@@ -75,3 +75,9 @@ relation_type
 target_type
 
 target_id
+
+
+Tag
+---------
+id
+name
