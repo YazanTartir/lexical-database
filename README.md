@@ -22,9 +22,9 @@ The primary goal is to create a searchable, extensible database that supports la
          │                 │
          └───────┬─────────┘
                  │
-           Vocabulary Set
-                 │
                 Tag
+                 │
+           Vocabulary Set
 
 
 ---
