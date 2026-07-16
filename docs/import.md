@@ -10,11 +10,21 @@ Each source maps differently into the database.
 
 For Wiktionary:
 
+For nouns and adjectives, import the masculine and femine singular and plural forms, as well as derived terms.
+
+For verbs, use the third person singular past tense and masdar for lexemes. The third person singular non-past tense verb is included, but it's a word form.
+
 For Al-Maany:
+
+Use this website for phrases.
 
 For my vocabulary sets:
 
+Import what I can from these sets.
+
 For manual entry:
+
+Search up new words, and add them using the other dictionaries.
 
 
 Adding a New Word: Decision Chart
