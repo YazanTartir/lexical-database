@@ -10,11 +10,11 @@ Instead of organizing vocabulary around a single language, every entry is organi
 
 The primary goal is to create a searchable, extensible database that supports language learning, writing, translation, and vocabulary expansion. Here is a visual representation of what this process looks like in practice:
 
-                 Concept
-                    ▲
-                    │
-                expresses
-                    │
+               Concept
+                  ▲
+                  │
+              expresses
+                  │
                 Lexeme
            ╱──────┼──────╲
           ╱       │       ╲
