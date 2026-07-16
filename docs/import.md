@@ -78,6 +78,7 @@ Database Entry Workflow:
    ↓
 
 2. Add Lexemes
+
    ↓
    
 3. Add Word Forms
