@@ -8,35 +8,19 @@ Search Engine
 
 ↓
 
-Find matching Word Forms
+Find matching Word Forms, Lexemes, and Concepts
 
 ↓
 
-Retrieve Lexemes
+User selects Concept, Lexeme or Word Form
 
 ↓
 
-Retrieve Concepts
+If Concept is selected, Lexemes grouped by language
 
 ↓
 
-Display related Concepts
-
-↓
-
-User selects Concept
-
-↓
-
-Display Lexemes grouped by language
-
-↓
-
-User selects Lexeme
-
-↓
-
-Display Word Forms, Relations, Tags, Root, Vocabulary Sets
+If Lexeme is selected, display Word Forms, Relations, Tags, Root, Vocabulary Sets
 
 Database:
 
