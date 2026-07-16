@@ -3,9 +3,11 @@
 ## Core Objects
 
 - Concept
-- Word
+- Lexeme
+- Word Form
 - Tag
 - Relation
+- Root
 
 ## Supported Languages
 
