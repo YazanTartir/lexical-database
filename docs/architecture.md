@@ -82,3 +82,9 @@ Tag
 id
 
 name
+
+LexemeTag
+---------
+lexeme_id
+
+tag_id
