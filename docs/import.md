@@ -18,7 +18,7 @@ Cross reference citations with other dictionaries, or with the provided dictiona
 
 For Al-Maany:
 
-Use this website for phrases and synonym-building.
+Use this website for phrases, synonym-building, and placement of case markers and verb vowels.
 
 For my vocabulary sets:
 
