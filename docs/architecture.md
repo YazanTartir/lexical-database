@@ -30,6 +30,15 @@ id
 
 name
 
+ConceptAlias
+------------
+id
+
+concept_id
+
+language
+
+alias
 
 Lexeme
 ---------
