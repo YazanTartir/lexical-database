@@ -48,4 +48,4 @@ Root: This is an Arabic-specific mechanism. An Arabic word will usually be conne
 
 LexemeTag: This connects lexemes directly to tags. This is many-to-many because one lexeme can be connected to many different tags, and one tag can go on many differen lexemes.
 
-VocabularySet: This is a high level relation between words with a specific pedagogical intent made to organize and search words easily within a specific list. This is many-to-many because of the organizational pattern.
+VocabularySet: This is a high level relation between words with a specific pedagogical intent made to organize and search words easily within a specific list. This is one-to-many to itself because of the organizational pattern of the parent folder. This is also many-to-many to a lexeme because the same lexeme can appear in multiple vocabulary sets.
