@@ -93,6 +93,10 @@ Database Entry Workflow:
    
 5. Add Relations
 
+   ↓
+
+6. Add Citations
+
 
 Example:
 
